@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "email": "exaple@gmail.com",
+      "password": "$2a$10$9wOPMB9847j/hI0vCNIUlesE3uqWDAco7irtE5sz8FtjYk.M5B9zi",
+      "name": "Abdu",
+      "location": "Tashkent",
+      "id": 1
+    }
+  ],
+  "all": [
+    {
+      "title": "awdawdawd",
+      "price": "awdawdawd",
+      "id": 3
+    },
+    {
+      "title": "awdawdaw",
+      "price": "awdawdawd",
+      "id": 4
+    }
+  ],
+  "home": [
+    {
+      "id": 1
+    },
+    {
+      "title": "awdawd",
+      "price": "awdawdad",
+      "id": 2
+    },
+    {
+      "title": "wdawdawd",
+      "price": "awdawdawd",
+      "id": 3
+    },
+    {
+      "title": "awdawd",
+      "price": "awdawdwad",
+      "id": 4
+    },
+    {
+      "title": "sefsefsef",
+      "price": "efsefse",
+      "id": 5
+    },
+    {
+      "title": "adwdawd",
+      "price": "awdawd",
+      "id": 6
+    },
+    {
+      "title": "awdawdaw",
+      "price": "awdawdawd",
+      "id": 7
+    },
+    {
+      "title": "awdwd",
+      "price": "awdwdwad",
+      "id": 8
+    },
+    {
+      "title": "fefefsef",
+      "price": "wadawdawd",
+      "id": 9
+    },
+    {
+      "title": "awdawdaw",
+      "price": "awdawdawd",
+      "id": 10
+    },
+    {
+      "title": "awdawd",
+      "price": "awdawd",
+      "id": 11
+    },
+    {
+      "title": "awdawd",
+      "price": "awdawd",
+      "id": 12
+    },
+    {
+      "title": "vdvzsv",
+      "price": "svszvzv",
+      "id": 13
+    },
+    {
+      "title": "awdawdawd",
+      "price": "awdawdawd",
+      "id": 14
+    },
+    {
+      "title": "awdawdaw",
+      "price": "awdawdawd",
+      "id": 15
+    }
+  ],
+  "hobbi": [],
+  "garden": [],
+  "cars": [],
+  "texno": [],
+  "children-for": [],
+  "service": [],
+  "animals": [],
+  "free": [],
+  "exchange": []
+}
